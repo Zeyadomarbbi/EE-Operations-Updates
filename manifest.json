@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://api.github.com/repos/Zeyadomarbbi/EE-Operations-Updates/contents/packages/EE-Operations-1.0.1.zip?ref=main",
-  "sha256": "2e842f695aec2e132bdbb29082ae87650746aae651b45719e5a970330d7035b3",
-  "notes": "EE Operations 1.0.1: safe automatic updates and Edge session recovery."
+  "version": "1.0.2",
+  "download_url": "https://api.github.com/repos/Zeyadomarbbi/EE-Operations-Updates/contents/packages/EE-Operations-1.0.2.zip?ref=main",
+  "sha256": "0141097aa602557c43cba9a62f74e8961465cd3ab1f512c131998638ec6c6ad6",
+  "notes": "Test of automatic update download, verification, installation, and restart."
 }
