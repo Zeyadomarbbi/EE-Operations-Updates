@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "download_url": "",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "notes": "الإصدار الأول من نظام التحديثات."
+  "download_url": "https://raw.githubusercontent.com/Zeyadomarbbi/EE-Operations-Updates/main/packages/EE-Operations-1.0.0.zip",
+  "sha256": "aee32c9860c39c88e1ca8e16f23395f3f0363540e8cb8f6dc8f4fd34fef56aa5",
+  "notes": "Initial EE Operations update channel."
 }
