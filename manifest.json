@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://api.github.com/repos/Zeyadomarbbi/EE-Operations-Updates/contents/packages/EE-Operations-1.0.3.zip?ref=main",
-  "sha256": "f71d854f53edc18ceb2132b6f20cae77cc98a77c4d1f59ba67e43cc6fc3ab20a",
-  "notes": "Setup now recreates the environment using Python 3.11 for reliable installation."
+  "version": "1.0.4",
+  "download_url": "https://api.github.com/repos/Zeyadomarbbi/EE-Operations-Updates/contents/packages/EE-Operations-1.0.4.zip?ref=main",
+  "sha256": "b071f8aeabfe6315eac88b2783391124d1b6df3be6ae27d056b0c88cc3b1b013",
+  "notes": "Technical log copy button and accurate parallel order progress labels."
 }
