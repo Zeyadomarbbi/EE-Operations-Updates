@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://api.github.com/repos/Zeyadomarbbi/EE-Operations-Updates/contents/packages/EE-Operations-1.0.2.zip?ref=main",
-  "sha256": "0141097aa602557c43cba9a62f74e8961465cd3ab1f512c131998638ec6c6ad6",
-  "notes": "Test of automatic update download, verification, installation, and restart."
+  "version": "1.0.3",
+  "download_url": "https://api.github.com/repos/Zeyadomarbbi/EE-Operations-Updates/contents/packages/EE-Operations-1.0.3.zip?ref=main",
+  "sha256": "f71d854f53edc18ceb2132b6f20cae77cc98a77c4d1f59ba67e43cc6fc3ab20a",
+  "notes": "Setup now recreates the environment using Python 3.11 for reliable installation."
 }
