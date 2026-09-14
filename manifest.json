@@ -1,6 +1,6 @@
-﻿{
-    "version":  "1.0.6",
-    "download_url":  "https://api.github.com/repos/Zeyadomarbbi/EE-Operations-Updates/contents/packages/EE-Operations-1.0.6.zip?ref=main",
-    "sha256":  "b92d3ed508ed2f50c818c9ea09ee286597f22d70c83225f02abc30f23c5cadec",
-    "notes":  "EE Operations update 1.0.6 (manifest encoding fixed)"
+{
+  "version": "1.0.6",
+  "download_url": "https://api.github.com/repos/Zeyadomarbbi/EE-Operations-Updates/contents/packages/EE-Operations-1.0.6.zip?ref=main",
+  "sha256": "b92d3ed508ed2f50c818c9ea09ee286597f22d70c83225f02abc30f23c5cadec",
+  "notes": "EE Operations update 1.0.6 (manifest encoding fixed)"
 }
