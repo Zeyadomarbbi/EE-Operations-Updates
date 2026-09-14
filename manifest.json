@@ -1,6 +1,6 @@
-{
-  "version": "1.0.4",
-  "download_url": "https://api.github.com/repos/Zeyadomarbbi/EE-Operations-Updates/contents/packages/EE-Operations-1.0.4.zip?ref=main",
-  "sha256": "b071f8aeabfe6315eac88b2783391124d1b6df3be6ae27d056b0c88cc3b1b013",
-  "notes": "Technical log copy button and accurate parallel order progress labels."
+﻿{
+    "version":  "1.0.5",
+    "download_url":  "https://api.github.com/repos/Zeyadomarbbi/EE-Operations-Updates/contents/packages/EE-Operations-1.0.5.zip?ref=main",
+    "sha256":  "ce48b92eabdf5e3d8653bc3e98a50b6695a3302a1485b8e940adabda5bb911a6",
+    "notes":  "EE Operations update 1.0.5"
 }
