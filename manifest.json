@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.16",
-    "download_url":  "https://api.github.com/repos/Zeyadomarbbi/EE-Operations-Updates/contents/packages/EE-Operations-1.0.16.zip?ref=main",
-    "sha256":  "7f14b35ab41af09caf07c84eeea57953a7bed86e2a0546d63ba15135dc4f3c6f",
-    "notes":  "EE Operations update 1.0.16"
+    "version":  "1.0.17",
+    "download_url":  "https://api.github.com/repos/Zeyadomarbbi/EE-Operations-Updates/contents/packages/EE-Operations-1.0.17.zip?ref=main",
+    "sha256":  "8f0f0afdfd015f097f8c00d33252272af5957c73be4bf819c2d2f7d6ab767303",
+    "notes":  "EE Operations update 1.0.17"
 }
